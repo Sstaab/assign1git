@@ -2,4 +2,4 @@
  Sam Staab
 "First Comment"
 "add Branch"
-"new git branch on GitHub"
+"new Git branch on GitHub"
